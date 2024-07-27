@@ -1,0 +1,87 @@
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Временные файлы
+*.log
+*.tmp
+*.swp
+
+# Операционные системы
+.DS_Store
+Thumbs.db
+
+# Конфиденциальные файлы
+.env
+
+# Сборка и кэш
+dist/
+build/
+out/
+*.cache
+*.tmp
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Тесты
+coverage/
+*.test.js
+*.spec.js
+
+# Макеты
+*.pdf
+*.psd
+
+# Прочее
+*.tgz
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Модули и пакеты
+*.tar
+*.gz
+*.bz2
+*.xz
+*.gem
+*.jar
+*.war
+*.ear
+*.dmg
+*.iso
+
+# Временные файлы и каталоги
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Файлы, сгенерированные для документации
+*.pdf
+
+# Файлы сборки для приложений Electron
+*.asar
+
+# Файлы приложения, сгенерированные сборщиками
+*.d.ts
+*.js.map
+*.css.map
+
+# Каталоги
+*.gradle
+*.mvn
+*.tmp
+*.log
